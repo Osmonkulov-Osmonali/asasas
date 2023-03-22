@@ -1,0 +1,13 @@
+legend{
+    color: black;
+    background-color: burlywood;
+    border: 1px dotted gray;
+}
+fieldset{
+    border: 1px dotted gray;
+    background-color: bisque;
+}
+div{
+    font-style: initial;
+    font-size: medium;
+}

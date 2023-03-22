@@ -1,0 +1,33 @@
+/* #Text_blue{
+    color: aqua;
+} */
+div{
+    /* color: white                            ;
+    width: 200px;
+    height: 100px;
+    background-color:black;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 100px;
+}
+.div_1{
+    border-top: 5px greenyellow solid;
+     border-left: 5px double gold;
+      border-right: 10px dashed grey;
+       border-bottom: 10px dotted blue;
+}
+.div_2{
+    border-left: 5px double gold;
+}   
+.div_3{
+    border-right: 10px dashed grey;
+}
+.div_4{
+    border-bottom: 10px dotted blue;
+}
+.div_5{
+    border: 10px outset hotpink;
+}
+.div_6{
+
+} */
